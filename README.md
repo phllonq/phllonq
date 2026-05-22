@@ -31,6 +31,11 @@ This repository is a personal learning space where I collect cybersecurity resou
 * GitHub: https://github.com/phllonq
 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
 
 ![SleuthKitLabs](https://img.shields.io/badge/SleuthKitLabs-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![RedTeamLeaders](https://img.shields.io/badge/RedTeamLeaders-8B0000?style=for-the-badge&logo=target&logoColor=white)
