@@ -1,10 +1,35 @@
- # 👏 Shout-outs & Appreciation
+ # 👋 About Me
 
-This project extends heartfelt appreciation to all 34 educational platforms, training providers, and organizations included in this repository.
+Cybersecurity student focused on penetration testing, web security, and network analysis.
 
-Their dedication to delivering free, high-quality courses, hands-on labs, study materials, and certificates has created a learning ecosystem that truly empowers beginners, students, and self-taught cybersecurity learners around the world.
+Passionate about hands-on learning through security labs, CTFs, vulnerability research, and Python-based security projects. Experienced with Linux environments and tools such as Nmap, Burp Suite, Wireshark, SQLmap, and Metasploit.
 
-Thanks to their ongoing commitment to open and accessible education, this repository can exist as a unified space where curiosity, skill-building, and growth are encouraged without barriers. Their contributions don’t just support learning — they help shape the next generation of cybersecurity professionals.
+This repository is a personal learning space where I collect cybersecurity resources, labs, notes, and platforms that support practical skill development and continuous growth in offensive security.
+
+## 🎯 Current Focus
+
+* Penetration Testing
+* Web Application Security
+* Network Enumeration
+* Python Security Tools
+* Linux & Bash Scripting
+
+## 🛠️ Tools & Technologies
+
+* Kali Linux
+* Nmap
+* Burp Suite
+* Wireshark
+* SQLmap
+* Gobuster
+* Python
+* Git & GitHub
+
+## 🌐 Profiles
+
+* TryHackMe: https://tryhackme.com/p/Dinok2
+* GitHub: https://github.com/phllonq
+
 
 
 ![SleuthKitLabs](https://img.shields.io/badge/SleuthKitLabs-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
