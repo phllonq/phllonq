@@ -1,13 +1,12 @@
 <div align="center">
 
 # 👋 Hi, I'm Dino
-### Cybersecurity Student | Pentesting • Web Security • Linux
 
 </div>
 
 ---
 
- # 👋 About Me
+ #  About Me
 
 Cybersecurity student focused on penetration testing, web security, and network analysis.
 
