@@ -1,3 +1,12 @@
+<div align="center">
+
+# 👋 Hi, I'm Dino
+### Cybersecurity Student | Pentesting • Web Security • Linux
+
+</div>
+
+---
+
  # 👋 About Me
 
 Cybersecurity student focused on penetration testing, web security, and network analysis.
@@ -5,20 +14,6 @@ Cybersecurity student focused on penetration testing, web security, and network 
 Passionate about hands-on learning through security labs, CTFs, vulnerability research, and Python-based security projects. Experienced with Linux environments and tools such as Nmap, Burp Suite, Wireshark, SQLmap, and Metasploit.
 
 This repository is a personal learning space where I collect cybersecurity resources, labs, notes, and platforms that support practical skill development and continuous growth in offensive security.
-
-
-
-
-<div align="center">
-
-# 👋 Hi, I'm Dino
-### Cybersecurity Student | Pentesting • Web Security • Linux
-
-Passionate about penetration testing, web application security, network analysis, and Python-based security projects.
-
-</div>
-
----
 
 # 🎯 Current Focus
 
