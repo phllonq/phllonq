@@ -34,8 +34,8 @@ This repository is a personal learning space where I collect cybersecurity resou
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phllonq&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phllonq&layout=compact&theme=tokyonight)
 
 ![SleuthKitLabs](https://img.shields.io/badge/SleuthKitLabs-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![RedTeamLeaders](https://img.shields.io/badge/RedTeamLeaders-8B0000?style=for-the-badge&logo=target&logoColor=white)
