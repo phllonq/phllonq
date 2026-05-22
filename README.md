@@ -14,7 +14,7 @@ Passionate about hands-on learning through security labs, CTFs, vulnerability re
 
 This repository is a personal learning space where I collect cybersecurity resources, labs, notes, and platforms that support practical skill development and continuous growth in offensive security.
 
-# 🎯 Current Focus
+#  Current Focus
 
 * Penetration Testing
 * Web Application Security
@@ -25,7 +25,7 @@ This repository is a personal learning space where I collect cybersecurity resou
 
 ---
 
-# 🛠️ Technologies & Tools
+#  Technologies & Tools
 
 ## Operating Systems
 
@@ -54,7 +54,7 @@ This repository is a personal learning space where I collect cybersecurity resou
 
 ---
 
-# 🔐 Security Platforms & Learning
+#  Security Platforms & Learning
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=red)
 ![TCM Security](https://img.shields.io/badge/TCM%20Security-1D8348?style=for-the-badge\&logo=hackaday\&logoColor=white)
@@ -65,7 +65,7 @@ This repository is a personal learning space where I collect cybersecurity resou
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
 ## 🔹 Python Port Scanner
 
@@ -85,7 +85,7 @@ Built a local lab using Kali Linux and vulnerable virtual machines for practicin
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phllonq\&show_icons=true\&theme=tokyonight)
 
@@ -93,7 +93,7 @@ Built a local lab using Kali Linux and vulnerable virtual machines for practicin
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 * GitHub: https://github.com/phllonq
 * TryHackMe: https://tryhackme.com/p/Dinok2
