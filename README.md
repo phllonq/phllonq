@@ -67,3 +67,107 @@ This repository is a personal learning space where I collect cybersecurity resou
 ![AWSBuild](https://img.shields.io/badge/AWS%20Security%20Build-FF9F00?style=for-the-badge&logo=shield&logoColor=white)
 ![HPCyber](https://img.shields.io/badge/HP%20Cyber%20Awareness-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![ITScripts](https://img.shields.io/badge/IT%20Security%20Workshops-424949?style=for-the-badge&logo=gitbook&logoColor=white)
+
+
+
+<div align="center">
+
+# 👋 Hi, I'm Tran Phi Long
+
+### Cybersecurity Student | Pentesting • Web Security • Linux
+
+Passionate about penetration testing, web application security, network analysis, and Python-based security projects.
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+* Penetration Testing
+* Web Application Security
+* Network Enumeration
+* Python Security Tools
+* Linux & Bash Scripting
+* Vulnerability Assessment
+
+---
+
+# 🛠️ Technologies & Tools
+
+## Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+
+---
+
+## Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+## Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47C20?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E4053?style=for-the-badge\&logo=metasploit\&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 🔐 Security Platforms & Learning
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=red)
+![TCM Security](https://img.shields.io/badge/TCM%20Security-1D8348?style=for-the-badge\&logo=hackaday\&logoColor=white)
+![Security Blue Team](https://img.shields.io/badge/Security%20Blue%20Team-003B73?style=for-the-badge\&logo=security\&logoColor=white)
+![Cybrary](https://img.shields.io/badge/Cybrary-161616?style=for-the-badge\&logo=cyberdefenders\&logoColor=white)
+![APIsec University](https://img.shields.io/badge/APIsec%20University-6C3483?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+## 🔹 Python Port Scanner
+
+A Python-based TCP port scanner developed using socket programming for network service enumeration.
+
+## 🔹 Web Vulnerability Testing Lab
+
+Hands-on practice environment for identifying vulnerabilities such as:
+
+* SQL Injection
+* Cross-Site Scripting (XSS)
+* Directory Discovery
+
+## 🔹 Local Penetration Testing Lab
+
+Built a local lab using Kali Linux and vulnerable virtual machines for practicing exploitation and enumeration techniques.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phllonq\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phllonq\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+* GitHub: https://github.com/phllonq
+* TryHackMe: https://tryhackme.com/p/Dinok2
+* Email: [18012006tranphilong@gmail.com](mailto:18012006tranphilong@gmail.com)
+* Location: Binh Duong / Ho Chi Minh City, Vietnam
+
+---
+
+⭐ Always learning, building, and improving cybersecurity skills through practical labs and real-world environments.
