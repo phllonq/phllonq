@@ -91,7 +91,9 @@ Built a local lab using Kali Linux and vulnerable virtual machines for practicin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phllonq\&layout=compact\&theme=tokyonight)
 
-# 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phllonq&show_icons=true&theme=tokyonight" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phllonq&layout=compact&theme=tokyonight" height="180em"/> </p>
+# 📊 GitHub Stats 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=phllonq&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phllonq&layout=compact&theme=tokyonight)
 ---
 
 #  Connect With Me
