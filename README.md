@@ -67,11 +67,11 @@ This repository is a personal learning space where I collect cybersecurity resou
 
 ## Featured Projects
 
-### 🔎 Python Port Scanner
+###  Python Port Scanner
 
 A multi-threaded TCP port scanner built with Python for network reconnaissance and service enumeration.
 
-**✅ Implemented Features:**
+** Implemented Features:**
 - Multi-threaded TCP port scanning (with thread pooling)
 - Service detection & banner grabbing
 - Custom port range scanning (1-65535)
