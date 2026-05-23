@@ -67,21 +67,45 @@ This repository is a personal learning space where I collect cybersecurity resou
 
 #  Featured Projects
 
-## 🔹 Python Port Scanner
+##  Python Port Scanner
+Developing a multi-threaded TCP port scanner using Python for network reconnaissance and service enumeration.
 
-A Python-based TCP port scanner developed using socket programming for network service enumeration.
+### Planned Features
+- TCP port scanning
+- Service detection
+- Banner grabbing
+- Result export
 
-## 🔹 Web Vulnerability Testing Lab
+### Technologies
+`Python` `Socket Programming` `Threading`
 
-Hands-on practice environment for identifying vulnerabilities such as:
+---
 
-* SQL Injection
-* Cross-Site Scripting (XSS)
-* Directory Discovery
+##  Web Vulnerability Testing Lab
+Building a personal practice lab for learning and testing common web vulnerabilities in controlled environments.
 
-## 🔹 Local Penetration Testing Lab
+### Learning Areas
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Directory Discovery
+- HTTP Request Analysis
 
-Built a local lab using Kali Linux and vulnerable virtual machines for practicing exploitation and enumeration techniques.
+### Tools
+`Burp Suite` `SQLmap` `Gobuster`
+
+---
+
+##  Local Penetration Testing Lab
+Creating a local cybersecurity lab using Kali Linux and vulnerable virtual machines for hands-on penetration testing practice.
+
+### Activities
+- Network Enumeration
+- Vulnerability Scanning
+- Linux Privilege Escalation
+- Basic Exploitation
+
+### Environment
+`Kali Linux` `VirtualBox` `Metasploit`
 
 ---
 
