@@ -81,7 +81,7 @@ A multi-threaded TCP port scanner built with Python for network reconnaissance a
 - Graceful interrupt handling (Ctrl+C saves results)
 - Skip dead hosts option for faster network scans
 
-**🛠️ Technologies:**
+** Technologies:**
 `Python` `Socket Programming` `Threading` `ThreadPoolExecutor` `Colorama`
 
 🔗 **[GitHub Repository](https://github.com/phllonq/python-port-scanner)**
