@@ -117,7 +117,7 @@ Creating a local cybersecurity lab using Kali Linux and vulnerable virtual machi
 
 #  GitHub Stats 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=phllonq&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phllonq&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phllonq&layout=donut&theme=tokyonight)
 ---
 
 #  Connect With Me
