@@ -65,20 +65,26 @@ This repository is a personal learning space where I collect cybersecurity resou
 
 ---
 
-#  Featured Projects
+## Featured Projects
 
-##  Python Port Scanner
-Developing a multi-threaded TCP port scanner using Python for network reconnaissance and service enumeration.
+### 🔎 Python Port Scanner
 
-### Planned Features
-- TCP port scanning
-- Service detection
-- Banner grabbing
-- Result export
+A multi-threaded TCP port scanner built with Python for network reconnaissance and service enumeration.
 
-### Technologies
-`Python` `Socket Programming` `Threading`
+**✅ Implemented Features:**
+- Multi-threaded TCP port scanning (with thread pooling)
+- Service detection & banner grabbing
+- Custom port range scanning (1-65535)
+- Single host and /24 network scanning
+- Colored terminal output
+- Result export to timestamped text files
+- Graceful interrupt handling (Ctrl+C saves results)
+- Skip dead hosts option for faster network scans
 
+**🛠️ Technologies:**
+`Python` `Socket Programming` `Threading` `ThreadPoolExecutor` `Colorama`
+
+🔗 **[GitHub Repository](https://github.com/phllonq/python-port-scanner)**
 ---
 
 ##  Web Vulnerability Testing Lab
