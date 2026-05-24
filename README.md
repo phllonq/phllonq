@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Dino
+# 👋 Hi, I'm Din
 
 </div>
 
